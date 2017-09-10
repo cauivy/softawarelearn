@@ -1,2 +1,3 @@
 I am taking a git class in software carpentry.
 2nd line
+3rd line
